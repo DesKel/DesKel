@@ -21,7 +21,7 @@
 
 ---
 
-<img align="left" alt="DesKel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DesKel&show_icons=true&hide_border=true" />
+<img align="left" alt="DesKel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DesKel&show_icons=true&hide_border=true&theme=blue-green" />
 
 [twitter]: https://twitter.com/Deskel5
 [protonmail]: mailto:Deskel666@protonmail.com

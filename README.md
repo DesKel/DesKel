@@ -18,5 +18,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+
 [twitter]: https://twitter.com/Deskel5
 [protonmail]: mailto:Deskel666@protonmail.com

@@ -11,14 +11,17 @@
 [<img align="left" alt="DesKel | protonmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][protonmail]
 
 <br />
+<br />
 
-<img align="left" alt="DesKel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DesKel&show_icons=true&hide_border=true" />
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+---
+
+<img align="left" alt="DesKel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DesKel&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Deskel5
 [protonmail]: mailto:Deskel666@protonmail.com

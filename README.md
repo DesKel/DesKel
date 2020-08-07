@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Ignite CTF](https://deskel.github.io/posts/thm/ignite-ctf)
 - [THM write-up: Basic Pentesting](https://deskel.github.io/posts/thm/basic-pentesting)
 - [THM write-up: Boiler CTF](https://deskel.github.io/posts/thm/boiler-ctf)
 - [THM write-up: Simple CTF](https://deskel.github.io/posts/thm/simple-ctf)
 - [Privacy policy](https://deskel.github.io/privacy_policy)
-- [Arduino tutorial: DHT11](https://deskel.github.io/posts/arduino/DHT11)
 <!-- BLOG-POST-LIST:END -->
 
 ---

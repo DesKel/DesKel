@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Library](https://deskel.github.io/posts/thm/library)
+- [THM write-up: Forensics](https://deskel.github.io/posts/thm/forensics)
 - [THM write-up: WebAppSec 101](https://deskel.github.io/posts/thm/webappsec-101)
 - [THM write-up: Crack The Hash](https://deskel.github.io/posts/thm/crack-the-hash)
 - [THM write-up: CaptureTheFlag](https://deskel.github.io/posts/thm/capture-the-flag)
-- [THM write-up: OhSINT](https://deskel.github.io/posts/thm/ohsint)
-- [THM write-up: Password Cracking](https://deskel.github.io/posts/thm/password-cracking)
 <!-- BLOG-POST-LIST:END -->
 
 ---

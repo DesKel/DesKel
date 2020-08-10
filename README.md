@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Basic Steganography](https://deskel.github.io/posts/thm/basic-steganography)
+- [THM write-up: Sputnik](https://deskel.github.io/posts/thm/sputnik)
 - [(Arduino Beginner) Tutorial 7: Finale](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-7)
 - [(Arduino Beginner) Tutorial 6: Light Dependent Resistor (LDR)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-6)
 - [(Arduino Beginner) Tutorial 5: Analog-to-Digital Conversion (ADC)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-5)
-- [(Arduino Beginner) Tutorial 4: Push-button](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-4)
-- [(Arduino Beginner) Tutorial 3: Pulse Width Modulation (PWM)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---

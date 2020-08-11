@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Adventure Time](https://deskel.github.io/posts/thm/adventure-time)
 - [THM write-up: Break It](https://deskel.github.io/posts/thm/break-it)
 - [THM write-up: JoyStick](https://deskel.github.io/posts/thm/joystick)
 - [THM write-up: Linux Challenges](https://deskel.github.io/posts/thm/linux-challenges)
 - [THM write-up: KnockKnock](https://deskel.github.io/posts/thm/knockknock)
-- [THM write-up: You Can’t Solve This](https://deskel.github.io/posts/thm/you-cant-solve-this)
 <!-- BLOG-POST-LIST:END -->
 
 ---

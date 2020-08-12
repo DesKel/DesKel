@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Challenge Land write-up: Steganography](https://deskel.github.io/posts/challengeland/steganography)
+- [Challenge Land write-up: Basic](https://deskel.github.io/posts/challengeland/basic)
 - [Challenge Land write-up: Login](https://deskel.github.io/posts/challengeland/login)
 - [THM write-up: Hacking with Powershell](https://deskel.github.io/posts/thm/hacking-with-powershell)
 - [THM write-up: HackBack 2019](https://deskel.github.io/posts/thm/hackback-2019)
-- [THM write-up: Bebop](https://deskel.github.io/posts/thm/bebop)
-- [THM write-up: STEGOsaurus](https://deskel.github.io/posts/thm/stegosaurus)
 <!-- BLOG-POST-LIST:END -->
 
 ---

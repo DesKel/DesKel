@@ -20,8 +20,8 @@
 - [THM write-up: Advent of Cyber](https://deskel.github.io/posts/thm/advent-of-cyber)
 - [THM write-up: CC Pen Testing](https://deskel.github.io/posts/thm/cc-pen-testing)
 - [THM write-up: hc0n Christmas CTF](https://deskel.github.io/posts/thm/hc0n-christmas-ctf)
+- [CTFLearn write-up: Forensics (Easy)](https://deskel.github.io/posts/thm/forensics-easy)
 - [THM write-up: Plathora](https://deskel.github.io/posts/thm/plathora)
-- [THM write-up: Reverse Engineering](https://deskel.github.io/posts/thm/reverse-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---

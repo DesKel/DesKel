@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: CC Pen Testing](https://deskel.github.io/posts/thm/cc-pen-testing)
+- [THM write-up: hc0n Christmas CTF](https://deskel.github.io/posts/thm/hc0n-christmas-ctf)
 - [THM write-up: Plathora](https://deskel.github.io/posts/thm/plathora)
 - [THM write-up: Reverse Engineering](https://deskel.github.io/posts/thm/reverse-engineering)
 - [THM write-up: djinn](https://deskel.github.io/posts/thm/djinn)
-- [THM write-up: Reversing ELF](https://deskel.github.io/posts/thm/reversing-elf)
-- [THM write-up: Blueprint](https://deskel.github.io/posts/thm/blueprint)
 <!-- BLOG-POST-LIST:END -->
 
 ---

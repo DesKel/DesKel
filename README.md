@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Backdoor write-up: n00b16CTF](https://deskel.github.io/posts/backdoor/n00b16ctf)
 - [Backdoor write-up: n00b15CTF](https://deskel.github.io/posts/backdoor/n00b15ctf)
 - [Des’s review: [OSINT] DeadTrap](https://deskel.github.io/posts/hacking-tools/osint/deadtrap)
 - [Des’s review: [OSINT] UserRecon](https://deskel.github.io/posts/hacking-tools/osint/userrecon)
 - [Des’s review: [DoS] Impulse](https://deskel.github.io/posts/hacking-tools/dos/impulse)
-- [Des’s review: BadUSB - an Arduino based keystroke](https://deskel.github.io/posts/hacking-tools/hardware/badusb)
 <!-- BLOG-POST-LIST:END -->
 
 ---

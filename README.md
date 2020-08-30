@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webhacking.kr write-up: old-6](https://deskel.github.io/posts/webhackingkr/old-6)
+- [Webhacking.kr write-up: old-1](https://deskel.github.io/posts/webhackingkr/old-1)
 - [CyberEDU write-up: Entry](https://deskel.github.io/posts/cyberedu/entry)
 - [Backdoor write-up: n00b16CTF](https://deskel.github.io/posts/backdoor/n00b16ctf)
 - [Backdoor write-up: n00b15CTF](https://deskel.github.io/posts/backdoor/n00b15ctf)
-- [Des’s review: [OSINT] DeadTrap](https://deskel.github.io/posts/hacking-tools/osint/deadtrap)
-- [Des’s review: [OSINT] UserRecon](https://deskel.github.io/posts/hacking-tools/osint/userrecon)
 <!-- BLOG-POST-LIST:END -->
 
 ---

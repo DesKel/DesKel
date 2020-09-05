@@ -17,11 +17,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webhacking.kr write-up: old-23](https://deskel.github.io/posts/webhackingkr/old-23)
+- [Webhacking.kr write-up: old-20](https://deskel.github.io/posts/webhackingkr/old-20)
 - [Webhacking.kr write-up: old-19](https://deskel.github.io/posts/webhackingkr/old-19)
 - [Webhacking.kr write-up: old-18](https://deskel.github.io/posts/webhackingkr/old-18)
 - [Webhacking.kr write-up: old-17](https://deskel.github.io/posts/webhackingkr/old-17)
-- [Webhacking.kr write-up: old-16](https://deskel.github.io/posts/webhackingkr/old-16)
-- [Webhacking.kr write-up: old-15](https://deskel.github.io/posts/webhackingkr/old-15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
